@@ -1,0 +1,8 @@
+appdirs==1.4.4
+distlib==0.3.1
+env==0.1.0
+filelock==3.0.12
+pyenv-win==2.64.3
+PyPDF2==1.26.0
+six==1.15.0
+virtualenv==20.2.1
