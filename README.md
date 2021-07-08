@@ -1,4 +1,4 @@
 # appDesktop
 
 
-Aplicación usando tkinter y SQLite
+Aplicación básica usando tkinter y SQLite
